@@ -1,26 +1,26 @@
-## 🧮 Flet Calculator
-A GUI calculator built with Flet framework.
-
-### How to run:
-```bash
-cd Flet_Calculator
-pip install -r requirements.txt
-python calculator.py
-
-
-### **Option C: Create a new README if it doesn't exist**
-```bash
-# If README.md doesn't exist in your folder
 @"
 # Python Beginner Projects
 
-## 🧮 Flet Calculator
-A GUI calculator built with Flet framework.
+A collection of Python projects for learning and practice.
 
-### How to run:
-\`\`\`bash
-cd Flet_Calculator
-pip install -r requirements.txt
-python calculator.py
-\`\`\`
-"@ | Out-File -FilePath README.md -Encoding utf8
+---
+
+## 🧮 Flet Calculator
+
+A modern GUI calculator built with **Flet** (Flutter for Python). Features a clean, dark-themed interface with basic arithmetic operations.
+
+### Features
+- ➕ Addition, Subtraction, Multiplication, Division
+- 🎨 Dark theme UI
+- ⌨️ Keyboard support
+- 📱 Responsive design
+
+### Screenshot
+![Flet Calculator](Flet_Calculator/Calc_image.png)
+
+### How to Run
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/EdrineWagooli/Python-Beginner-Projects.git
+   cd Python-Beginner-Projects/Flet_Calculator
