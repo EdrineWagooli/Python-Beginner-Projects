@@ -1,8 +1,0 @@
-## 🧮 Flet Calculator
-A GUI calculator built with Flet framework.
-
-### How to run:
-```bash
-cd Flet_Calculator
-pip install -r requirements.txt
-python calculator.py
